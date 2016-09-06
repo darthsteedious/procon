@@ -1,0 +1,7 @@
+[package]
+name = "procod"
+version = "0.1.0"
+authors = ["Ed McDonald <<darthsteedious@gmail.com>>"]
+
+[dependencies]
+log = "0.3.6"

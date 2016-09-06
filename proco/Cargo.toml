@@ -1,0 +1,6 @@
+[package]
+name = "proco"
+version = "0.1.0"
+authors = ["Ed McDonald <<darthsteedious@gmail.com>>"]
+
+[dependencies]
